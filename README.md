@@ -55,24 +55,28 @@ En conjunto, estos mods **perfeccionan cómo se siente jugar**: la visión, el s
 
 <br />
 
-| Nombre del Mod | Descripción | Utilidades | Edición |
-|----------------|-------------|------------|---------|
-| [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057) | Sistema avanzado de realismo (médico, balística, interacción). | Realismo, nuevas funciones de jugabilidad. | Necesario en MP |
-| [AIO Lambs Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2815713819) | IA mejorada con comportamientos más realistas. | IA dinámica y utilidades de combate. | Necesario en MP |
-| [ALiVE](https://steamcommunity.com/sharedfiles/filedetails/?id=620260972) | Sistema de guerra dinámica persistente. | Campañas dinámicas, utilidades de misión. | Necesario en MP |
-| [Blastcore Edited](https://steamcommunity.com/sharedfiles/filedetails/?id=767380317) | Mejora de efectos visuales de explosiones y humo. | Mejores explosiones, partículas y efectos. | Necesario en MP |
-| [CBA_A3](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997) | Librería base requerida por muchos mods. | Framework y compatibilidad. | Necesario en MP |
-| [CH View Distance](https://steamcommunity.com/sharedfiles/filedetails/?id=837729515) | Ajuste dinámico de distancias de visión. | Rendimiento y visibilidad. | Necesario en MP |
-| [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?id=333310405) | Permite trepar y saltar obstáculos. | Movimientos nuevos. | Necesario en MP |
-| [Enhanced Movement Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662) | Versión optimizada del mod anterior. | Movimientos nuevos, más estables. | Necesario en MP |
-| [Esenciales 2025](https://steamcommunity.com/sharedfiles/filedetails/?id=3491711394) | Colección/compilado de utilidades básicas. | Mixto. | Necesario en MP |
-| [IEDD Notebook](https://steamcommunity.com/sharedfiles/filedetails/?id=3048818056) | Libreta interactiva para desactivación de IED. | Utilidad EOD (desactivación de explosivos). | Necesario en MP |
-| [JSRS Soundmod 2025](https://steamcommunity.com/sharedfiles/filedetails/?id=3407948300) | Mejora global de sonidos de armas y ambiente. | Sonidos realistas, ambiente. | Necesario en MP |
-| [KAT – Advanced Medical](https://steamcommunity.com/sharedfiles/filedetails/?id=2020940806) | Extiende el sistema médico de ACE. | Jugabilidad médica avanzada. | Necesario en MP |
-| [RHSTERRACORE](https://steamcommunity.com/sharedfiles/filedetails/?id=2288691268) | Librería de soporte para RHS. | Requerido para compatibilidad. | Necesario en MP |
-| [Simplex Support Services](https://steamcommunity.com/sharedfiles/filedetails/?id=3029520419) | Sistema de apoyo (artillería, logística, etc.). | Soporte y funciones tácticas. | Necesario en MP |
-| [Task Force Arrowhead Radio (TFAR)](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801) | Comunicación por radio realista con frecuencias. | Utilidades de comunicación. | Necesario en MP |
-| [Zeus Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=1779063631) | Mejora el modo Zeus con más herramientas. | Utilidades para edición/misiones. | Necesario en MP (si Zeus se usa en partida) |
+# ⚙️ Mods de Utilidades (Juego)
+
+Estos mods aportan mejoras de jugabilidad, efectos, sonido, IA o nuevas funciones dentro del juego. Son necesarios en partidas multijugador cuando se usan en la misión.
+
+| Nombre del Mod | Descripción | Utilidades | Categoría | Compatibilidad |
+|----------------|-------------|------------|-----------|----------------|
+| [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057) | Sistema avanzado de realismo (médico, balística, interacción). | Realismo, nuevas funciones de jugabilidad. | Jugabilidad / Médico | Requiere CBA_A3 |
+| [AIO Lambs Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2815713819) | IA mejorada con comportamientos más realistas. | IA dinámica y utilidades de combate. | IA | Compatible con CBA_A3 |
+| [ALiVE](https://steamcommunity.com/sharedfiles/filedetails/?id=620260972) | Sistema de guerra dinámica persistente. | Campañas dinámicas, utilidades de misión. | IA / Dinámica | Compatible con CBA_A3 |
+| [Blastcore Edited](https://steamcommunity.com/sharedfiles/filedetails/?id=767380317) | Mejora de efectos visuales de explosiones y humo. | Mejores explosiones, partículas y efectos. | Gráficos / Efectos | Independiente |
+| [CBA_A3](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997) | Librería base requerida por muchos mods. | Framework y compatibilidad. | Soporte | Base requerida por ACE, KAT, ALiVE, etc. |
+| [CH View Distance](https://steamcommunity.com/sharedfiles/filedetails/?id=837729515) | Ajuste dinámico de distancias de visión. | Rendimiento y visibilidad. | Rendimiento | Independiente |
+| [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?id=333310405) | Permite trepar y saltar obstáculos. | Movimientos nuevos. | Movilidad | Independiente |
+| [Enhanced Movement Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2034363662) | Versión optimizada del mod anterior. | Movimientos nuevos, más estables. | Movilidad | Independiente |
+| [Esenciales 2025](https://steamcommunity.com/sharedfiles/filedetails/?id=3491711394) | Colección/compilado de utilidades básicas. | Mixto. | Compilación | Puede requerir varios (CBA, ACE, etc.) |
+| [IEDD Notebook](https://steamcommunity.com/sharedfiles/filedetails/?id=3048818056) | Libreta interactiva para desactivación de IED. | Utilidad EOD (desactivación de explosivos). | Jugabilidad | Compatible con ACE |
+| [JSRS Soundmod 2025](https://steamcommunity.com/sharedfiles/filedetails/?id=3407948300) | Mejora global de sonidos de armas y ambiente. | Sonidos realistas, ambiente. | Sonido | Independiente |
+| [KAT – Advanced Medical](https://steamcommunity.com/sharedfiles/filedetails/?id=2020940806) | Extiende el sistema médico de ACE. | Jugabilidad médica avanzada. | Médico | Requiere ACE + CBA_A3 |
+| [RHSTERRACORE](https://steamcommunity.com/sharedfiles/filedetails/?id=2288691268) | Librería de soporte para RHS. | Requerido para compatibilidad. | Soporte | Necesario para varios mods RHS |
+| [Simplex Support Services](https://steamcommunity.com/sharedfiles/filedetails/?id=3029520419) | Sistema de apoyo (artillería, logística, etc.). | Soporte y funciones tácticas. | Jugabilidad / Soporte | Compatible con CBA_A3 |
+| [Task Force Arrowhead Radio (TFAR)](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801) | Comunicación por radio realista con frecuencias. | Utilidades de comunicación. | Comunicación | Compatible con CBA_A3 |
+
 
 <br /><br />
 
