@@ -45,7 +45,7 @@ Los **mods de optimización** en este preset no añaden nuevos uniformes, armas 
 Dentro de este grupo se encuentran:  
 - **Mejoras gráficas y sonoras**: mods como *Blastcore Edited* y *JSRS Soundmod* transforman explosiones, humo, disparos y ambiente sonoro, logrando una experiencia mucho más realista.  
 - **Extensiones de jugabilidad**: *ACE* y *KAT Advanced Medical* profundizan el realismo con sistemas médicos, balística avanzada y mecánicas adicionales.  
-- **Movilidad y animaciones**: *Enhanced Movement* y su rework permiten escalar, trepar y moverse de formas más naturales en combate.  
+- **Movilidad y animaciones**: *Enhanced Movement* y su rework permiten escalar, trepar y moverse de formas más naturales en combate. Son incompatibles entre si; usa solo uno (hoy en día se recomienda Enhanced Movement Rework). 
 - **IA y dinámica de misión**: *Lambs AI* y *ALiVE* aportan inteligencia artificial mejorada y campañas dinámicas persistentes.  
 - **Herramientas de control y soporte**: mods como *CBA_A3*, *CH View Distance*, *Simplex Support Services* y *TFAR* añaden frameworks, control de rendimiento, soporte táctico y comunicación realista por radio.  
 
