@@ -24,7 +24,7 @@ Dentro de este grupo se encuentran:
 
 En conjunto, estos mods facilitan el trabajo de los editores, reducen el tiempo de prueba y mejoran la flexibilidad a la hora de **crear misiones más realistas, dinámicas y pulidas**. Los jugadores **no necesitan** tenerlos cargados para unirse a partidas multijugador.<br />
 
-## 📋 Lista de Mods – [edicion_modlist_fel.html](https://github.com/lockdawn/FEL-ModLists-Arma-3/blob/main/LICENSE)
+## 📋 Lista de Mods
 
 <br />
 
@@ -33,6 +33,41 @@ En conjunto, estos mods facilitan el trabajo de los editores, reducen el tiempo 
 | [3den Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=623475643) | Mejora el editor 3DEN con más funciones. | Herramientas de creación, utilidades para misiones. |
 | [A3U – Arma 3 Utilities](https://steamcommunity.com/sharedfiles/filedetails/?id=1560749177) | Herramientas para edición y depuración. | Utilidades técnicas, debug. |
 | [Deformer](https://steamcommunity.com/sharedfiles/filedetails/?id=2822758266) | Herramienta para deformar terrenos en Zeus. | Edición de terreno en vivo. |
+
+<br /><br />
+
+# ⚙️ Lista de Mods Básicos
+
+## Descripción
+
+Esta lista de mods corresponde al conjunto mínimo obligatorio para la creación de misiones dentro de FEL. Su objetivo es garantizar una base común de funcionalidades, realismo y herramientas que forman parte integral del rol, la experiencia de juego y los estándares operativos definidos por la comunidad.
+
+Los mods incluidos en esta lista no son opcionales y deben ser considerados en todas las misiones, ya que habilitan mecánicas fundamentales como interacción avanzada, sistemas médicos, herramientas de edición, control Zeus, comunicaciones y mejoras estructurales que impactan directamente en la jugabilidad y en la coherencia de las operaciones.
+
+Esta lista representa el mínimo técnico y funcional que todo editor debe asumir como presente en el entorno de juego. No deben ser eliminados ni sustituidos, ya que su ausencia compromete la experiencia esperada para los jugadores y rompe la compatibilidad con los lineamientos FEL.
+
+A partir de esta base mínima, los editores pueden y están autorizados a agregar otros mods de las tablas que se presentan a continuación, las cuales se encuentran organizadas por función y describen extensiones opcionales que permiten enriquecer las misiones según sus objetivos, narrativa y nivel de complejidad.<br />
+
+## 📋 Lista de Mods – [arma_3-mods_base.html](https://github.com/lockdawn/FEL-ModLists-Arma-3/blob/main/arma_3-mods_base.html)
+
+<br />
+
+| Nombre del Mod | Descripción | Utilidades | Categoría | Compatibilidad |
+|----------------|-------------|------------|-----------|----------------|
+| ACE | Sistema avanzado de realismo (médico, balística, interacción). | Realismo táctico, nuevas mecánicas de jugabilidad. | Jugabilidad / Médico | Requiere CBA_A3 |
+| Blastcore Edited | Mejora visual de explosiones, fuego y efectos de partículas. | Explosiones, humo, ambientación visual. | Gráficos / Efectos | Independiente |
+| CBA_A3 | Librería base requerida por numerosos mods. | Framework, compatibilidad y funciones base. | Soporte | Base requerida por ACE, KAT, Zeus Enhanced, etc. |
+| CH View Distance | Ajuste dinámico de distancias de visión. | Optimización de rendimiento y visibilidad. | Rendimiento | Independiente |
+| Enhanced Movement | Permite trepar, saltar y moverse con mayor libertad. | Movilidad avanzada del jugador. | Movilidad | Independiente |
+| Enhanced Movement Rework | Versión optimizada y más estable de Enhanced Movement. | Movimientos avanzados mejorados. | Movilidad | Independiente |
+| Esenciales v2 2025 | Compilado de utilidades básicas usadas en misiones FEL. | Funciones comunes, soporte general de misión. | Compilación | Puede requerir CBA_A3 y ACE |
+| KAT – Advanced Medical | Extiende el sistema médico de ACE con mayor profundidad. | Medicina avanzada, procedimientos médicos. | Médico | Requiere ACE + CBA_A3 |
+| Task Force Arrowhead Radio (TFAR) | Sistema de comunicación por radio realista con frecuencias. | Comunicaciones tácticas por rol. | Comunicación | Compatible con CBA_A3 |
+| 3den Enhanced | Expande el editor 3DEN con herramientas avanzadas. | Edición de misiones, productividad. | Editor / Misiones | Independiente (recomendado con CBA_A3) |
+| Deformer | Permite deformar terreno y escenarios en tiempo real. | Creación y modificación de escenarios. | Editor / Escenario | Independiente |
+| Zeus Enhanced | Amplía significativamente las capacidades del Zeus. | Control avanzado de misiones en vivo. | Zeus / Administración | Requiere CBA_A3 |
+
+
 
 <br /><br />
 
@@ -51,7 +86,7 @@ Dentro de este grupo se encuentran:
 
 En conjunto, estos mods **perfeccionan cómo se siente jugar**: la visión, el sonido, las animaciones, los efectos y la comunicación dentro del juego.<br />
 
-## 📋 Lista de Mods – [edicion_modlist_fel.html](https://github.com/lockdawn/FEL-ModLists-Arma-3/blob/main/LICENSE)
+## 📋 Lista de Mods – [arma_3-mods_base.html](https://github.com/lockdawn/FEL-ModLists-Arma-3/blob/main/arma_3-mods_base.html)
 
 <br />
 
