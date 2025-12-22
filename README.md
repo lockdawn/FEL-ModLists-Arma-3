@@ -49,7 +49,6 @@ Esta lista representa el mínimo técnico y funcional que todo editor debe asumi
 A partir de esta base mínima, los editores pueden y están autorizados a agregar otros mods de las tablas que se presentan a continuación, las cuales se encuentran organizadas por función y describen extensiones opcionales que permiten enriquecer las misiones según sus objetivos, narrativa y nivel de complejidad.<br />
 
 ## 📋 Lista de Mods – [arma_3-mods_base.html](https://github.com/lockdawn/FEL-ModLists-Arma-3/blob/main/arma_3-mods_base.html)
-
 <br />
 
 | Nombre del Mod | Descripción | Utilidades | Categoría | Compatibilidad |
@@ -66,12 +65,9 @@ A partir de esta base mínima, los editores pueden y están autorizados a agrega
 | 3den Enhanced | Expande el editor 3DEN con herramientas avanzadas. | Edición de misiones, productividad. | Editor / Misiones | Independiente (recomendado con CBA_A3) |
 | Deformer | Permite deformar terreno y escenarios en tiempo real. | Creación y modificación de escenarios. | Editor / Escenario | Independiente |
 | Zeus Enhanced | Amplía significativamente las capacidades del Zeus. | Control avanzado de misiones en vivo. | Zeus / Administración | Requiere CBA_A3 |
-
-
-
 <br /><br />
 
-# ⚙️ Mods de Optimización
+# ⚙️ Mods de Optimización\Utilidades
 
 ## Descripción
 
@@ -85,14 +81,6 @@ Dentro de este grupo se encuentran:
 - **Herramientas de control y soporte**: mods como *CBA_A3*, *CH View Distance*, *Simplex Support Services* y *TFAR* añaden frameworks, control de rendimiento, soporte táctico y comunicación realista por radio.  
 
 En conjunto, estos mods **perfeccionan cómo se siente jugar**: la visión, el sonido, las animaciones, los efectos y la comunicación dentro del juego.<br />
-
-## 📋 Lista de Mods – [arma_3-mods_base.html](https://github.com/lockdawn/FEL-ModLists-Arma-3/blob/main/arma_3-mods_base.html)
-
-<br />
-
-# ⚙️ Mods de Utilidades (Juego)
-
-Estos mods aportan mejoras de jugabilidad, efectos, sonido, IA o nuevas funciones dentro del juego. Son necesarios en partidas multijugador cuando se usan en la misión.
 
 | Nombre del Mod | Descripción | Utilidades | Categoría | Compatibilidad |
 |----------------|-------------|------------|-----------|----------------|
@@ -111,8 +99,6 @@ Estos mods aportan mejoras de jugabilidad, efectos, sonido, IA o nuevas funcione
 | [RHSTERRACORE](https://steamcommunity.com/sharedfiles/filedetails/?id=2288691268) | Librería de soporte para RHS. | Requerido para compatibilidad. | Soporte | Necesario para varios mods RHS |
 | [Simplex Support Services](https://steamcommunity.com/sharedfiles/filedetails/?id=3029520419) | Sistema de apoyo (artillería, logística, etc.). | Soporte y funciones tácticas. | Jugabilidad / Soporte | Compatible con CBA_A3 |
 | [Task Force Arrowhead Radio (TFAR)](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801) | Comunicación por radio realista con frecuencias. | Utilidades de comunicación. | Comunicación | Compatible con CBA_A3 |
-
-
 <br /><br />
 
 # ⚙️ Mods de Mapas
