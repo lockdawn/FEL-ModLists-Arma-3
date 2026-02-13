@@ -61,7 +61,7 @@ A partir de esta base mínima, los editores pueden y están autorizados a agrega
 | Enhanced Movement Rework | Versión optimizada y más estable de Enhanced Movement. | Movimientos avanzados mejorados. | Movilidad | Independiente |
 | Esenciales v2 2025 | Compilado de utilidades básicas usadas en misiones FEL. | Funciones comunes, soporte general de misión. | Compilación | Puede requerir CBA_A3 y ACE |
 | KAT – Advanced Medical | Extiende el sistema médico de ACE con mayor profundidad. | Medicina avanzada, procedimientos médicos. | Médico | Requiere ACE + CBA_A3 |
-| Task Force Arrowhead Radio (TFAR) | Sistema de comunicación por radio realista con frecuencias. | Comunicaciones tácticas por rol. | Comunicación | Compatible con CBA_A3 |
+| ACRE2 | Sistema de comunicación por radio realista con frecuencias. | Comunicaciones tácticas por rol. | Comunicación | Compatible con CBA_A3 |
 | 3den Enhanced | Expande el editor 3DEN con herramientas avanzadas. | Edición de misiones, productividad. | Editor / Misiones | Independiente (recomendado con CBA_A3) |
 | Deformer | Permite deformar terreno y escenarios en tiempo real. | Creación y modificación de escenarios. | Editor / Escenario | Independiente |
 | Zeus Enhanced | Amplía significativamente las capacidades del Zeus. | Control avanzado de misiones en vivo. | Zeus / Administración | Requiere CBA_A3 |
@@ -99,6 +99,7 @@ En conjunto, estos mods **perfeccionan cómo se siente jugar**: la visión, el s
 | [RHSTERRACORE](https://steamcommunity.com/sharedfiles/filedetails/?id=2288691268) | Librería de soporte para RHS. | Requerido para compatibilidad. | Soporte | Necesario para varios mods RHS |
 | [Simplex Support Services](https://steamcommunity.com/sharedfiles/filedetails/?id=3029520419) | Sistema de apoyo (artillería, logística, etc.). | Soporte y funciones tácticas. | Jugabilidad / Soporte | Compatible con CBA_A3 |
 | [Task Force Arrowhead Radio (TFAR)](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801) | Comunicación por radio realista con frecuencias. | Utilidades de comunicación. | Comunicación | Compatible con CBA_A3 |
+| [ACRE2](https://steamcommunity.com/sharedfiles/filedetails/?id=751965892) | Comunicación por radio realista con frecuencias. | Utilidades de comunicación. | Comunicación | Compatible con CBA_A3 |
 <br /><br />
 
 # ⚙️ Mods de Mapas
